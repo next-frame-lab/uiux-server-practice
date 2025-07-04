@@ -1,502 +1,212 @@
 [
   {
-    "id": 1,
-    "performance_id": 37,
-    "status": false
-  },
-  {
-    "id": 2,
-    "performance_id": 7,
-    "status": false
-  },
-  {
-    "id": 3,
-    "performance_id": 18,
-    "status": false
-  },
-  {
-    "id": 4,
-    "performance_id": 21,
+    "seat_id": 1,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": true
   },
   {
-    "id": 5,
-    "performance_id": 17,
-    "status": false
-  },
-  {
-    "id": 6,
-    "performance_id": 25,
+    "seat_id": 2,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": true
   },
   {
-    "id": 7,
-    "performance_id": 2,
+    "seat_id": 3,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": false
   },
   {
-    "id": 8,
-    "performance_id": 8,
-    "status": false
-  },
-  {
-    "id": 9,
-    "performance_id": 14,
-    "status": false
-  },
-  {
-    "id": 10,
-    "performance_id": 8,
+    "seat_id": 4,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": true
   },
   {
-    "id": 11,
-    "performance_id": 4,
+    "seat_id": 5,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
+    "status": true
+  },
+  {
+    "seat_id": 6,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
+    "status": true
+  },
+  {
+    "seat_id": 7,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": false
   },
   {
-    "id": 12,
-    "performance_id": 18,
+    "seat_id": 8,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": false
   },
   {
-    "id": 13,
-    "performance_id": 22,
+    "seat_id": 9,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": false
   },
   {
-    "id": 14,
-    "performance_id": 18,
+    "seat_id": 10,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 20000,
     "status": true
   },
   {
-    "id": 15,
-    "performance_id": 40,
+    "seat_id": 11,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
+    "status": true
+  },
+  {
+    "seat_id": 12,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
+    "status": true
+  },
+  {
+    "seat_id": 13,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
     "status": false
   },
   {
-    "id": 16,
-    "performance_id": 30,
+    "seat_id": 14,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
     "status": true
   },
   {
-    "id": 17,
-    "performance_id": 17,
+    "seat_id": 15,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
     "status": true
   },
   {
-    "id": 18,
-    "performance_id": 32,
+    "seat_id": 16,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
     "status": false
   },
   {
-    "id": 19,
-    "performance_id": 16,
+    "seat_id": 17,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
+    "status": true
+  },
+  {
+    "seat_id": 18,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
+    "status": true
+  },
+  {
+    "seat_id": 19,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
+    "status": true
+  },
+  {
+    "seat_id": 20,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 15000,
     "status": false
   },
   {
-    "id": 20,
-    "performance_id": 19,
+    "seat_id": 21,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": true
   },
   {
-    "id": 21,
-    "performance_id": 3,
+    "seat_id": 22,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
+    "status": true
+  },
+  {
+    "seat_id": 23,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": false
   },
   {
-    "id": 22,
-    "performance_id": 15,
+    "seat_id": 24,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": true
   },
   {
-    "id": 23,
-    "performance_id": 1,
+    "seat_id": 25,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": true
   },
   {
-    "id": 24,
-    "performance_id": 33,
+    "seat_id": 26,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": false
   },
   {
-    "id": 25,
-    "performance_id": 13,
+    "seat_id": 27,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": true
   },
   {
-    "id": 26,
-    "performance_id": 18,
+    "seat_id": 28,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
+    "status": true
+  },
+  {
+    "seat_id": 29,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": false
   },
   {
-    "id": 27,
-    "performance_id": 14,
-    "status": true
-  },
-  {
-    "id": 28,
-    "performance_id": 25,
-    "status": true
-  },
-  {
-    "id": 29,
-    "performance_id": 8,
-    "status": true
-  },
-  {
-    "id": 30,
-    "performance_id": 10,
-    "status": false
-  },
-  {
-    "id": 31,
-    "performance_id": 10,
-    "status": false
-  },
-  {
-    "id": 32,
-    "performance_id": 21,
-    "status": false
-  },
-  {
-    "id": 33,
-    "performance_id": 30,
-    "status": false
-  },
-  {
-    "id": 34,
-    "performance_id": 4,
-    "status": true
-  },
-  {
-    "id": 35,
-    "performance_id": 6,
-    "status": true
-  },
-  {
-    "id": 36,
-    "performance_id": 11,
-    "status": true
-  },
-  {
-    "id": 37,
-    "performance_id": 18,
-    "status": true
-  },
-  {
-    "id": 38,
-    "performance_id": 36,
-    "status": true
-  },
-  {
-    "id": 39,
-    "performance_id": 9,
-    "status": false
-  },
-  {
-    "id": 40,
-    "performance_id": 27,
-    "status": false
-  },
-  {
-    "id": 41,
-    "performance_id": 32,
-    "status": true
-  },
-  {
-    "id": 42,
-    "performance_id": 21,
-    "status": false
-  },
-  {
-    "id": 43,
-    "performance_id": 25,
-    "status": false
-  },
-  {
-    "id": 44,
-    "performance_id": 16,
-    "status": true
-  },
-  {
-    "id": 45,
-    "performance_id": 39,
-    "status": true
-  },
-  {
-    "id": 46,
-    "performance_id": 3,
-    "status": true
-  },
-  {
-    "id": 47,
-    "performance_id": 40,
-    "status": true
-  },
-  {
-    "id": 48,
-    "performance_id": 31,
-    "status": false
-  },
-  {
-    "id": 49,
-    "performance_id": 11,
-    "status": false
-  },
-  {
-    "id": 50,
-    "performance_id": 9,
-    "status": true
-  },
-  {
-    "id": 51,
-    "performance_id": 24,
-    "status": false
-  },
-  {
-    "id": 52,
-    "performance_id": 11,
-    "status": false
-  },
-  {
-    "id": 53,
-    "performance_id": 30,
-    "status": false
-  },
-  {
-    "id": 54,
-    "performance_id": 23,
-    "status": false
-  },
-  {
-    "id": 55,
-    "performance_id": 23,
-    "status": true
-  },
-  {
-    "id": 56,
-    "performance_id": 35,
-    "status": true
-  },
-  {
-    "id": 57,
-    "performance_id": 35,
-    "status": true
-  },
-  {
-    "id": 58,
-    "performance_id": 3,
-    "status": true
-  },
-  {
-    "id": 59,
-    "performance_id": 30,
-    "status": false
-  },
-  {
-    "id": 60,
-    "performance_id": 25,
-    "status": false
-  },
-  {
-    "id": 61,
-    "performance_id": 9,
-    "status": false
-  },
-  {
-    "id": 62,
-    "performance_id": 31,
-    "status": true
-  },
-  {
-    "id": 63,
-    "performance_id": 2,
-    "status": false
-  },
-  {
-    "id": 64,
-    "performance_id": 37,
-    "status": false
-  },
-  {
-    "id": 65,
-    "performance_id": 29,
-    "status": true
-  },
-  {
-    "id": 66,
-    "performance_id": 40,
-    "status": false
-  },
-  {
-    "id": 67,
-    "performance_id": 39,
-    "status": false
-  },
-  {
-    "id": 68,
-    "performance_id": 24,
-    "status": true
-  },
-  {
-    "id": 69,
-    "performance_id": 21,
-    "status": false
-  },
-  {
-    "id": 70,
-    "performance_id": 7,
-    "status": true
-  },
-  {
-    "id": 71,
-    "performance_id": 40,
-    "status": false
-  },
-  {
-    "id": 72,
-    "performance_id": 25,
-    "status": true
-  },
-  {
-    "id": 73,
-    "performance_id": 9,
-    "status": false
-  },
-  {
-    "id": 74,
-    "performance_id": 7,
-    "status": false
-  },
-  {
-    "id": 75,
-    "performance_id": 2,
-    "status": false
-  },
-  {
-    "id": 76,
-    "performance_id": 39,
-    "status": false
-  },
-  {
-    "id": 77,
-    "performance_id": 9,
-    "status": false
-  },
-  {
-    "id": 78,
-    "performance_id": 19,
-    "status": false
-  },
-  {
-    "id": 79,
-    "performance_id": 1,
-    "status": true
-  },
-  {
-    "id": 80,
-    "performance_id": 4,
-    "status": true
-  },
-  {
-    "id": 81,
-    "performance_id": 22,
-    "status": true
-  },
-  {
-    "id": 82,
-    "performance_id": 18,
-    "status": true
-  },
-  {
-    "id": 83,
-    "performance_id": 40,
-    "status": true
-  },
-  {
-    "id": 84,
-    "performance_id": 9,
-    "status": true
-  },
-  {
-    "id": 85,
-    "performance_id": 10,
-    "status": false
-  },
-  {
-    "id": 86,
-    "performance_id": 36,
-    "status": true
-  },
-  {
-    "id": 87,
-    "performance_id": 31,
-    "status": false
-  },
-  {
-    "id": 88,
-    "performance_id": 17,
-    "status": true
-  },
-  {
-    "id": 89,
-    "performance_id": 5,
-    "status": true
-  },
-  {
-    "id": 90,
-    "performance_id": 25,
-    "status": false
-  },
-  {
-    "id": 91,
-    "performance_id": 8,
-    "status": false
-  },
-  {
-    "id": 92,
-    "performance_id": 15,
-    "status": true
-  },
-  {
-    "id": 93,
-    "performance_id": 18,
-    "status": false
-  },
-  {
-    "id": 94,
-    "performance_id": 36,
-    "status": true
-  },
-  {
-    "id": 95,
-    "performance_id": 15,
-    "status": false
-  },
-  {
-    "id": 96,
-    "performance_id": 3,
-    "status": true
-  },
-  {
-    "id": 97,
-    "performance_id": 7,
-    "status": true
-  },
-  {
-    "id": 98,
-    "performance_id": 7,
-    "status": true
-  },
-  {
-    "id": 99,
-    "performance_id": 33,
-    "status": true
-  },
-  {
-    "id": 100,
-    "performance_id": 30,
+    "seat_id": 30,
+    "performances_start_date": 20250228,
+    "performances_duration": 140,
+    "performances_price": 10000,
     "status": true
   }
 ]
