@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "user_id": 21,
+    "performance_id": 33,
+    "seat_id": 77
+  },
+  {
+    "id": 2,
+    "user_id": 9,
+    "performance_id": 7,
+    "seat_id": 28
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "performance_id": 7,
+    "seat_id": 50
+  },
+  {
+    "id": 4,
+    "user_id": 24,
+    "performance_id": 14,
+    "seat_id": 27
+  },
+  {
+    "id": 5,
+    "user_id": 25,
+    "performance_id": 27,
+    "seat_id": 65
+  },
+  {
+    "id": 6,
+    "user_id": 8,
+    "performance_id": 23,
+    "seat_id": 54
+  },
+  {
+    "id": 7,
+    "user_id": 22,
+    "performance_id": 8,
+    "seat_id": 45
+  },
+  {
+    "id": 8,
+    "user_id": 24,
+    "performance_id": 27,
+    "seat_id": 60
+  },
+  {
+    "id": 9,
+    "user_id": 26,
+    "performance_id": 1,
+    "seat_id": 9
+  },
+  {
+    "id": 10,
+    "user_id": 4,
+    "performance_id": 31,
+    "seat_id": 85
+  },
+  {
+    "id": 11,
+    "user_id": 5,
+    "performance_id": 37,
+    "seat_id": 14
+  },
+  {
+    "id": 12,
+    "user_id": 18,
+    "performance_id": 9,
+    "seat_id": 64
+  },
+  {
+    "id": 13,
+    "user_id": 13,
+    "performance_id": 25,
+    "seat_id": 56
+  },
+  {
+    "id": 14,
+    "user_id": 21,
+    "performance_id": 30,
+    "seat_id": 95
+  },
+  {
+    "id": 15,
+    "user_id": 6,
+    "performance_id": 21,
+    "seat_id": 38
+  },
+  {
+    "id": 16,
+    "user_id": 22,
+    "performance_id": 40,
+    "seat_id": 53
+  },
+  {
+    "id": 17,
+    "user_id": 9,
+    "performance_id": 32,
+    "seat_id": 89
+  },
+  {
+    "id": 18,
+    "user_id": 24,
+    "performance_id": 14,
+    "seat_id": 33
+  },
+  {
+    "id": 19,
+    "user_id": 27,
+    "performance_id": 13,
+    "seat_id": 41
+  },
+  {
+    "id": 20,
+    "user_id": 2,
+    "performance_id": 5,
+    "seat_id": 81
+  },
+  {
+    "id": 21,
+    "user_id": 18,
+    "performance_id": 27,
+    "seat_id": 20
+  },
+  {
+    "id": 22,
+    "user_id": 29,
+    "performance_id": 27,
+    "seat_id": 88
+  },
+  {
+    "id": 23,
+    "user_id": 18,
+    "performance_id": 36,
+    "seat_id": 83
+  },
+  {
+    "id": 24,
+    "user_id": 3,
+    "performance_id": 11,
+    "seat_id": 92
+  },
+  {
+    "id": 25,
+    "user_id": 24,
+    "performance_id": 24,
+    "seat_id": 18
+  },
+  {
+    "id": 26,
+    "user_id": 17,
+    "performance_id": 21,
+    "seat_id": 94
+  },
+  {
+    "id": 27,
+    "user_id": 19,
+    "performance_id": 16,
+    "seat_id": 46
+  },
+  {
+    "id": 28,
+    "user_id": 14,
+    "performance_id": 5,
+    "seat_id": 84
+  },
+  {
+    "id": 29,
+    "user_id": 5,
+    "performance_id": 9,
+    "seat_id": 21
+  },
+  {
+    "id": 30,
+    "user_id": 25,
+    "performance_id": 6,
+    "seat_id": 6
+  },
+  {
+    "id": 31,
+    "user_id": 17,
+    "performance_id": 3,
+    "seat_id": 1
+  },
+  {
+    "id": 32,
+    "user_id": 23,
+    "performance_id": 2,
+    "seat_id": 100
+  },
+  {
+    "id": 33,
+    "user_id": 28,
+    "performance_id": 11,
+    "seat_id": 98
+  },
+  {
+    "id": 34,
+    "user_id": 9,
+    "performance_id": 17,
+    "seat_id": 86
+  },
+  {
+    "id": 35,
+    "user_id": 20,
+    "performance_id": 14,
+    "seat_id": 90
+  },
+  {
+    "id": 36,
+    "user_id": 12,
+    "performance_id": 34,
+    "seat_id": 29
+  },
+  {
+    "id": 37,
+    "user_id": 27,
+    "performance_id": 11,
+    "seat_id": 12
+  },
+  {
+    "id": 38,
+    "user_id": 2,
+    "performance_id": 13,
+    "seat_id": 61
+  },
+  {
+    "id": 39,
+    "user_id": 18,
+    "performance_id": 20,
+    "seat_id": 72
+  },
+  {
+    "id": 40,
+    "user_id": 3,
+    "performance_id": 23,
+    "seat_id": 66
+  },
+  {
+    "id": 41,
+    "user_id": 26,
+    "performance_id": 17,
+    "seat_id": 49
+  },
+  {
+    "id": 42,
+    "user_id": 27,
+    "performance_id": 12,
+    "seat_id": 24
+  },
+  {
+    "id": 43,
+    "user_id": 11,
+    "performance_id": 21,
+    "seat_id": 58
+  },
+  {
+    "id": 44,
+    "user_id": 12,
+    "performance_id": 20,
+    "seat_id": 91
+  },
+  {
+    "id": 45,
+    "user_id": 16,
+    "performance_id": 8,
+    "seat_id": 16
+  },
+  {
+    "id": 46,
+    "user_id": 13,
+    "performance_id": 36,
+    "seat_id": 30
+  },
+  {
+    "id": 47,
+    "user_id": 15,
+    "performance_id": 35,
+    "seat_id": 13
+  },
+  {
+    "id": 48,
+    "user_id": 5,
+    "performance_id": 15,
+    "seat_id": 8
+  },
+  {
+    "id": 49,
+    "user_id": 23,
+    "performance_id": 3,
+    "seat_id": 48
+  },
+  {
+    "id": 50,
+    "user_id": 21,
+    "performance_id": 18,
+    "seat_id": 96
+  }
+]
