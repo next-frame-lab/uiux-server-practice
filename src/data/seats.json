@@ -2,210 +2,210 @@
   {
     "seat_id": 1,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": true
   },
   {
     "seat_id": 2,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": true
   },
   {
     "seat_id": 3,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": false
   },
   {
     "seat_id": 4,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": true
   },
   {
     "seat_id": 5,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": true
   },
   {
     "seat_id": 6,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": true
   },
   {
     "seat_id": 7,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": false
   },
   {
     "seat_id": 8,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": false
   },
   {
     "seat_id": 9,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": false
   },
   {
     "seat_id": 10,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 20000,
     "status": true
   },
   {
     "seat_id": 11,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 12,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 13,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": false
   },
   {
     "seat_id": 14,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 15,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 16,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": false
   },
   {
     "seat_id": 17,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 18,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 19,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": true
   },
   {
     "seat_id": 20,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 15000,
     "status": false
   },
   {
     "seat_id": 21,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   },
   {
     "seat_id": 22,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   },
   {
     "seat_id": 23,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": false
   },
   {
     "seat_id": 24,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   },
   {
     "seat_id": 25,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   },
   {
     "seat_id": 26,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": false
   },
   {
     "seat_id": 27,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   },
   {
     "seat_id": 28,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   },
   {
     "seat_id": 29,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": false
   },
   {
     "seat_id": 30,
     "performances_start_date": 20250228,
-    "performances_duration": 140,
+    "performances_start_time": "19:00",
     "performances_price": 10000,
     "status": true
   }

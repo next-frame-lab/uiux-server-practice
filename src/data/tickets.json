@@ -1,5 +1,6 @@
 [
   {
+    "seat_id": 23,
     "performances_id": 1,
     "performances_title": "j-hope Tour: HOPE ON THE STAGE [서울]",
     "performances_image": "/image/Performance_1.gif",
@@ -7,6 +8,6 @@
     "performances_area": "서울특별시",
     "performances_stadium": "올림픽공원",
     "performances_address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)",
-    "performances_duration": 140
+    "performances_start_time": "19:00"
   }
 ]
