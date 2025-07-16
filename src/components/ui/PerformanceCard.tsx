@@ -1,4 +1,4 @@
-type performanceData = {
+export type performanceData = {
 	id: number;
 	name: string;
 	image: string;
@@ -10,7 +10,7 @@ type performanceData = {
 	averageStar: number;
 };
 
-interface performanceCardProps {
+export interface performanceCardProps {
 	performance: performanceData;
 	onClick: (id: number) => void;
 }
@@ -19,6 +19,10 @@ export default function PerformanceCard({
 	performance,
 	onClick,
 }: performanceCardProps) {
+	if (!performance) {
+		return null;
+	}
+
 	return (
 		<button
 			type="button"
