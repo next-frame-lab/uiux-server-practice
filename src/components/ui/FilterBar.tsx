@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-interface FilterBarProps {
+export interface FilterBarProps {
 	onTypeChange: (type: string | null) => void;
 	onGenreChange: (genre: string | null) => void;
 }
