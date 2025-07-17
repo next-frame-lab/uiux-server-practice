@@ -1,9 +1,12 @@
 [
   {
-    "user_id": 1,
-    "name": "오준택",
-    "age": 24,
-    "email": "handsomegay@naver.com",
-    "image": "/image/user_1.png"
+    "code": "SUCCESS",
+    "data": {
+      "user_id": "1",
+      "image": "/image/user_1.png",
+      "name": "오준택",
+      "age": 24,
+      "email": "handsomegay@naver.com"
+    }
   }
 ]
