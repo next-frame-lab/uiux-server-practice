@@ -32,4 +32,5 @@ describe("필터바에서 유형(Type) 또는 장르(Genre) 선택", () => {
 		expect(onTypeChange).toHaveBeenCalledWith("액션");
 		expect(onGenreChange).toHaveBeenCalledWith("대중음악");
 	});
+
 });
