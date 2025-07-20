@@ -1,8 +1,9 @@
 import { useEffect, useRef } from "react";
-import PerformanceCard, { performanceData } from "./PerformanceCard.tsx";
+import { PerformanceListItem } from "../../pages/__mocks__/performanceData.ts";
+import PerformanceCard from "../../pages/PerformanceListPage/PerformanceCard.tsx";
 
 interface InfiniteScrollListProps {
-	items: performanceData[];
+	items: PerformanceListItem[];
 	fetchNext: () => void; // 다음 10개를 로드하는 함수
 	hasMore: boolean; // 더 불러올 데이터가 있는지에 대한 여부
 	onClick: (id: number) => void;

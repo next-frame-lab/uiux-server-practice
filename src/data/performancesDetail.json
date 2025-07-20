@@ -5,16 +5,33 @@
     "image": "/image/Performance_1.gif",
     "type": "액션",
     "genre": "대중음악",
-    "start_date": "20250228",
-    "end_date": "20250302",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-    
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 1,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "제이홉의 첫 단독 투어 서울 공연으로, 그의 솔로곡과 BTS 히트곡이 어우러진 무대다. 화려한 댄스와 에너지가 넘치는 무대 연출이 압권이다. 팬들과 소통하며 즐기는 시간으로, 깜짝 게스트가 등장하기도 한다. 무대 장치와 영상이 곡의 감정을 더욱 돋보이게 한다. 제이홉 특유의 밝음과 진심 어린 멘트가 마음을 울린다.",
     "adultOnly": true
   },
@@ -24,16 +41,33 @@
     "image": "/image/Performance_2.gif",
     "type": "로맨스",
     "genre": "뮤지컬",
-    "start_date": "20241129",
-    "end_date": "20250518",
-    "area": "서울특별시",
     "stadium": {
       "name": "블루스퀘어",
       "address": "서울특별시 용산구 이태원로 294 (한남동)"
     },
     "runningTime": 140,
     "averageStar": 4.2,
-    
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 2,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "선과 악의 이중성을 주제로 한 뮤지컬로, 지킬 박사와 하이드의 이야기를 다룬다. 드라마틱한 음악과 스릴 넘치는 장면 전환이 돋보인다. ‘지금 이 순간’ 같은 강렬한 넘버가 무대를 장악한다. 배우의 1인 2역 연기가 놀랍도록 섬세하다. 관객에게 인간 본성에 대한 질문을 던진다.",
     "adultOnly": true
   },
@@ -43,16 +77,33 @@
     "image": "/image/Performance_3.gif",
     "type": "드라마",
     "genre": "뮤지컬",
-    "start_date": "20241117",
-    "end_date": "20250622",
-    "area": "서울특별시",
     "stadium": {
       "name": "샤롯데씨어터",
       "address": "서울특별시 송파구 올림픽로 240 (잠실동)"
     },
     "runningTime": 140,
     "averageStar": 4.6,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 3,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "디즈니 애니메이션을 원작으로 한 뮤지컬 알라딘은 가족 관람에 제격이다. 지니와 알라딘의 유쾌한 모험이 화려한 무대에서 펼쳐진다. 양탄자 비행 장면은 관객들에게 환상을 선사한다. 익숙한 노래들이 극의 몰입도를 높인다. 환상적인 세트와 의상이 관람의 재미를 더한다.",
     "adultOnly": true
   },
@@ -62,15 +113,33 @@
     "image": "/image/Performance_4.gif",
     "type": "코미디",
     "genre": "뮤지컬",
-    "start_date": "20250109",
-    "end_date": "20250309",
-    "area": "서울특별시",
     "stadium": {
       "name": "예술의전당",
       "address": "서울특별시 서초구 남부순환로 2406 (서초동)"
     },
     "runningTime": 140,
     "averageStar": 4.7,
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 4,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "빅토르 위고의 소설을 기반으로 한 한국 창작 뮤지컬이다. 웃는 상처를 가진 그윈플렌의 고독과 사랑을 담았다. 비극적인 스토리와 아름다운 음악이 조화를 이룬다. 무대 디자인과 조명이 드라마틱한 분위기를 극대화한다. 사회적 메시지를 깊이 있게 전달하는 작품이다.",
     "adultOnly": false
   },
@@ -80,16 +149,33 @@
     "image": "/image/Performance_5.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250307",
-    "end_date": "20250309",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.8,
-    
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 5,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "태연의 콘서트 'The TENSE'는 그녀의 감성적인 목소리를 온전히 느낄 수 있는 자리다. 섬세한 발라드부터 파워풀한 댄스곡까지 다양한 무대를 선보인다. 팬들과 소통하는 순간마다 따뜻함이 흐른다. 빛과 그림자를 활용한 무대 연출이 인상 깊다. 태연의 진솔한 이야기와 라이브가 감동을 더한다.",
     "adultOnly": false
   },
@@ -99,16 +185,33 @@
     "image": "/image/Performance_6.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250131",
-    "end_date": "20250202",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 90,
     "averageStar": 4.2,
-    
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 6,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "더보이즈의 팬콘서트로, 멤버들의 재치 있는 토크와 무대가 어우러진다. 팬들과 직접 교감하며 만드는 특별한 시간이다. 신곡과 히트곡 무대가 다채롭게 이어진다. 팬 서비스가 가득해 현장에서만 느낄 수 있는 설렘을 준다. 밝고 에너지 넘치는 무대가 돋보인다.",
     "adultOnly": false
   },
@@ -118,16 +221,33 @@
     "image": "/image/Performance_7.gif",
     "type": "액션",
     "genre": "대중음악",
-    "start_date": "20250315",
-    "end_date": "20250316",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.3,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 7,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "에스파의 앵콜 투어로, 독창적인 세계관과 무대 영상이 압도적이다. 다채로운 안무와 강렬한 EDM 사운드가 공연장을 가득 채운다. AI 아바타와 현실의 멤버들이 함께 꾸미는 무대가 색다르다. 팬들과 교감하는 토크와 깜짝 이벤트가 준비되어 있다. 에스파만의 미래적 콘셉트를 극대화한 무대다.",
     "adultOnly": false
   },
@@ -137,16 +257,33 @@
     "image": "/image/Performance_8.gif",
     "type": "스릴러",
     "genre": "뮤지컬",
-    "start_date": "20250117",
-    "end_date": "20250316",
-    "area": "서울특별시",
     "stadium": {
       "name": "디큐브아트센터",
       "address": "서울특별시 구로구 경인로 662 (신도림동, 디큐브시티)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 8,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "괴테의 소설 '젊은 베르테르의 슬픔'을 원작으로 한 뮤지컬이다. 베르테르의 순수한 사랑과 고뇌가 무대를 가득 채운다. 아름다운 넘버와 시적인 가사가 돋보인다. 고전적인 무대 연출이 작품의 깊이를 더한다. 슬프고도 애절한 이야기가 마음을 울린다.",
     "adultOnly": false
   },
@@ -156,16 +293,33 @@
     "image": "/image/Performance_9.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250208",
-    "end_date": "20250209",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 90,
     "averageStar": 4,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 9,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "트로트 가수 황영웅의 앨범 발매를 기념하는 쇼케이스다. 신곡을 포함해 다양한 무대를 선보이며 팬들과 만난다. 황영웅 특유의 무대 매너와 유머가 돋보인다. 팬들에게 앨범 제작 비화를 들려주는 시간도 가진다. 따뜻한 라이브가 공연장을 가득 채운다.",
     "adultOnly": true
   },
@@ -175,16 +329,33 @@
     "image": "/image/Performance_10.gif",
     "type": "판타지",
     "genre": "대중음악",
-    "start_date": "20250307",
-    "end_date": "20250309",
-    "area": "인천광역시",
     "stadium": {
       "name": "인스파이어리조트",
       "address": "인천광역시 중구 공항문화로 127 (운서동)"
     },
     "runningTime": 140,
     "averageStar": 4.2,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 10,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "투모로우바이투게더의 월드투어 인천 공연이다. 젊음과 열정을 담은 무대에서 다양한 퍼포먼스를 만날 수 있다. 콘서트 내내 이어지는 팬들과의 교감이 돋보인다. 무대 영상과 특수효과가 곡의 세계관을 더욱 극대화한다. TXT만의 밝고 에너지 넘치는 무대가 인상 깊다.",
     "adultOnly": true
   },
@@ -194,16 +365,33 @@
     "image": "/image/Performance_11.gif",
     "type": "호러",
     "genre": "뮤지컬",
-    "start_date": "20241206",
-    "end_date": "20250223",
-    "area": "서울특별시",
     "stadium": {
       "name": "예술의전당",
       "address": "서울특별시 서초구 남부순환로 2406 (서초동)"
     },
     "runningTime": 140,
     "averageStar": 4.6,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 11,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "뮤지컬 시라노는 시라노 드 베르주라크의 이야기를 담았다. 화려한 언어유희와 재치 있는 대사가 돋보인다. 사랑을 고백하지 못하는 시라노의 애틋함이 전해진다. 풍성한 합창과 무대가 극을 더욱 생동감 있게 한다. 유머와 눈물이 함께하는 작품이다.",
     "adultOnly": true
   },
@@ -213,16 +401,33 @@
     "image": "/image/Performance_12.gif",
     "type": "액션",
     "genre": "대중음악",
-    "start_date": "20250614",
-    "end_date": "20250615",
-    "area": "경기도",
     "stadium": {
       "name": "서울랜드",
       "address": "경기도 과천시 광명로 181 (막계동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 12,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "서울에서 열리는 대규모 EDM 페스티벌이다. 세계적인 DJ들이 한자리에 모여 공연을 펼친다. 화려한 조명과 무대 특수효과가 밤을 수놓는다. 관객들이 다 함께 뛰며 즐기는 에너지가 대단하다. 하루 종일 이어지는 댄스 파티가 잊지 못할 추억을 만든다.",
     "adultOnly": true
   },
@@ -232,16 +437,33 @@
     "type": "드라마",
     "image": "/image/Performance_13.gif",
     "genre": "대중음악",
-    "start_date": "20250201",
-    "end_date": "20250202",
-    "area": "부산광역시",
     "stadium": {
       "name": "벡스코 (BEXCO)",
       "address": "부산광역시 해운대구 APEC로 55"
     },
     "runningTime": 140,
     "averageStar": 5,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 13,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "DAY6의 세 번째 월드투어 부산 공연이다. 록 밴드 특유의 강렬한 사운드와 감성적인 가사가 돋보인다. 라이브에서만 느낄 수 있는 멤버들의 진심이 전해진다. 팬들과 함께 떼창하며 만드는 무대가 감동적이다. 공연 후 여운이 오래 남는 콘서트다.",
     "adultOnly": true
   },
@@ -251,16 +473,33 @@
     "image": "/image/Performance_14.gif",
     "type": "드라마",
     "genre": "뮤지컬",
-    "start_date": "20250121",
-    "end_date": "20250330",
-    "area": "서울특별시",
     "stadium": {
       "name": "세종문화회관",
       "address": "서울특별시 종로구 세종대로 175 (세종로)"
     },
     "runningTime": 140,
     "averageStar": 4.5,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 14,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "조선의 마지막 황후 명성황후의 생애를 그린 뮤지컬이다. 역사적 사건을 웅장하고도 섬세하게 무대에 옮겼다. 화려한 궁중 의상과 무대 세트가 시선을 사로잡는다. 가슴을 울리는 넘버들이 극의 몰입도를 높인다. 역사적 비극이 주는 울림이 깊다.",
     "adultOnly": false
   },
@@ -270,16 +509,33 @@
     "image": "/image/Performance_15.gif",
     "type": "스릴러",
     "genre": "뮤지컬",
-    "start_date": "20241205",
-    "end_date": "20250302",
-    "area": "서울특별시",
     "stadium": {
       "name": "LG아트센터",
       "address": "서울특별시 강남구 논현로 508 (역삼동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 15,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "마타하리는 제1차 세계대전 시대 스파이로 살았던 여인을 다룬다. 화려한 무희에서 비극의 인물로 변해가는 모습이 인상적이다. 웅장한 무대와 감각적인 조명이 극의 긴장감을 더한다. 서정적이면서도 파워풀한 음악이 작품의 감정을 살린다. 매혹적이면서도 슬픈 이야기다.",
     "adultOnly": false
   },
@@ -289,16 +545,33 @@
     "image": "/image/Performance_16.gif",
     "type": "액션",
     "genre": "대중음악",
-    "start_date": "20250222",
-    "end_date": "20250223",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 3.9,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 16,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "영탁의 서울 앵콜 콘서트로, 트로트와 발라드가 어우러진 무대다. 유쾌한 토크와 재치 있는 팬 서비스가 가득하다. 라이브로 들려주는 히트곡들이 공연장을 달군다. 팬들과 함께하는 이벤트로 웃음과 감동을 준다. 즐겁고 따뜻한 에너지가 넘치는 공연이다.",
     "adultOnly": false
   },
@@ -308,16 +581,33 @@
     "image": "/image/Performance_17.gif",
     "type": "판타지",
     "genre": "대중음악",
-    "start_date": "20250214",
-    "end_date": "20250216",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.9,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 17,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "윤하의 앵콜 콘서트로, 그녀의 음악적 성장 과정을 담았다. 섬세한 피아노 연주와 폭발적인 가창력이 인상적이다. 잔잔한 곡에서부터 록 사운드까지 폭넓은 레퍼토리를 선보인다. 팬들과의 대화에서 진솔한 매력을 느낄 수 있다. 음악으로 위로와 용기를 주는 시간이다.",
     "adultOnly": false
   },
@@ -327,16 +617,33 @@
     "image": "/image/Performance_18.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250207",
-    "end_date": "20250209",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.5,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 18,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "검정치마의 단독 공연으로, 감각적인 인디 록을 만날 수 있다. 잔잔하면서도 중독적인 멜로디가 관객을 사로잡는다. 아날로그적 무드의 무대 연출이 음악과 잘 어울린다. 관객들과 호흡하며 자연스러운 분위기를 만든다. 마치 작은 음악 여행을 다녀온 듯한 여운을 남긴다.",
     "adultOnly": false
   },
@@ -346,16 +653,33 @@
     "image": "/image/Performance_19.gif",
     "type": "액션",
     "genre": "대중음악",
-    "start_date": "20250207",
-    "end_date": "20250209",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 19,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "비투비 이창섭의 서울 앵콜 솔로 콘서트다. 풍부한 성량과 섬세한 감정 표현이 돋보인다. 솔로 앨범 수록곡부터 팬들에게 특별한 무대까지 선사한다. 소극장 느낌의 아늑한 분위기가 매력적이다. 팬들과 더욱 가까이 호흡하는 시간이 된다.",
     "adultOnly": true
   },
@@ -365,16 +689,33 @@
     "image": "/image/Performance_20.jif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250322",
-    "end_date": "20250323",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 20,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "에이티즈의 서울 월드투어 공연으로, 강렬한 퍼포먼스가 압권이다. 화려한 조명과 무대 연출로 곡의 세계관을 극대화한다. 멤버들의 열정적인 무대 매너가 관객을 사로잡는다. 팬들과 함께 호흡하며 만드는 순간들이 특별하다. 공연 내내 에너지와 감동이 넘친다.",
     "adultOnly": true
   },
@@ -384,16 +725,33 @@
     "image": "/image/Performance_21.gif",
     "type": "판타지",
     "genre": "대중음악",
-    "start_date": "20250329",
-    "end_date": "20250330",
-    "area": "경기도",
     "stadium": {
       "name": "킨텍스",
       "address": "경기도 고양시 일산서구 킨텍스로 217-60 (대화동)"
     },
     "runningTime": 140,
     "averageStar": 4.2,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 21,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "일산에서 열리는 '더 글로우'는 감각적인 비주얼과 사운드가 어우러진 축제다. 라이브 밴드와 DJ들이 만들어내는 환상적인 분위기가 특징이다. 형형색색의 조명과 설치 미술이 공연장을 가득 메운다. 관객들은 자유롭게 즐기며 각자만의 추억을 만든다. 밤이 깊을수록 더욱 화려해지는 무대가 압권이다.",
     "adultOnly": true
   },
@@ -403,16 +761,33 @@
     "image": "/image/Performance_22.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250201",
-    "end_date": "20250202",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.6,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 22,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "GOT7의 NESTFEST는 멤버들이 오랜만에 한자리에 모여 펼치는 공연이다. 완전체 무대에서 팬들과 함께 호흡하는 순간이 특별하다. 팬들을 위한 깜짝 이벤트와 토크가 가득하다. 그들의 대표곡과 솔로 무대까지 다채롭게 구성됐다. 오래 기다린 팬들에게 최고의 선물을 주는 시간이다.",
     "adultOnly": true
   },
@@ -422,16 +797,33 @@
     "type": "액션",
     "image": "/image/Performance_23.gif",
     "genre": "대중음악",
-    "start_date": "20250201",
-    "end_date": "20250201",
-    "area": "인천광역시",
     "stadium": {
       "name": "인스파이어리조트",
       "address": "인천광역시 중구 공항문화로 127 (운서동)"
     },
     "runningTime": 140,
     "averageStar": 4.7,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 23,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "태양의 앵콜 투어 'THE LIGHT YEAR'는 그만의 소울 넘치는 목소리가 돋보인다. 댄스곡부터 발라드까지 다양한 레퍼토리가 이어진다. 무대 위에서의 카리스마와 무대 아래의 따뜻함이 조화를 이룬다. 화려한 조명과 영상이 공연의 몰입을 돕는다. 팬들과 교감하며 전하는 진심 어린 멘트가 감동적이다.",
     "adultOnly": true
   },
@@ -441,16 +833,33 @@
     "type": "액션",
     "image": "/image/Performance_24.gif",
     "genre": "대중음악",
-    "start_date": "20250321",
-    "end_date": "20250323",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.8,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 24,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "NCT WISH의 아시아 투어 서울 공연은 폭발적인 에너지로 가득하다. 멤버들의 신곡 무대가 최초로 공개되기도 한다. 팬들과 소통하는 다양한 프로그램이 준비됐다. 다채로운 무대 연출이 NCT만의 색을 잘 보여준다. 콘서트 내내 관객들이 함께 뛰며 즐기는 모습이 인상적이다.",
     "adultOnly": false
   },
@@ -460,16 +869,33 @@
     "image": "/image/Performance_25.gif",
     "type": "코미디",
     "genre": "뮤지컬",
-    "start_date": "20241126",
-    "end_date": "20250303",
-    "area": "서울특별시",
     "stadium": {
       "name": "유니플렉스",
       "address": "서울특별시 종로구 대학로12길 64"
     },
     "runningTime": 140,
     "averageStar": 4.3,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 25,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "연극 '여신님이 보고 계셔'는 한국전쟁을 배경으로 한 휴먼 코미디다. 포로수용소라는 공간에서 펼쳐지는 따뜻한 이야기다. 가슴을 울리는 음악과 배우들의 섬세한 연기가 돋보인다. 유머와 감동이 조화롭게 어우러진 작품이다. 엔딩에서 관객들의 눈시울을 적시게 만든다.",
     "adultOnly": false
   },
@@ -479,16 +905,33 @@
     "image": "/image/Performance_26.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250221",
-    "end_date": "20250223",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 26,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "샤이니 온유의 단독 콘서트로, 감미로운 보컬이 빛을 발한다. 그만의 음악 세계를 온전히 느낄 수 있는 시간이다. 소소한 에피소드와 유쾌한 토크로 웃음을 준다. 어쿠스틱한 무대가 공연의 진정성을 높인다. 팬들에게 오래 기억될 따뜻한 공연이다.",
     "adultOnly": false
   },
@@ -498,16 +941,33 @@
     "image": "/image/Performance_27.gif",
     "type": "액션",
     "genre": "뮤지컬",
-    "start_date": "20241119",
-    "end_date": "20250209",
-    "area": "서울특별시",
     "stadium": {
       "name": "충무아트센터",
       "address": "서울특별시 중구 퇴계로 387 (흥인동)"
     },
     "runningTime": 140,
     "averageStar": 4,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 27,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "스윙 재즈를 현대적으로 재해석한 '스윙 데이즈' 공연이다. 암호명 A라는 콘셉트로 관객들의 호기심을 자극한다. 빠른 템포의 음악과 화려한 댄스가 무대를 가득 채운다. 배우들과 밴드가 함께 만들어내는 생생한 무대가 매력적이다. 발랄함과 유머가 넘치는 공연이다.",
     "adultOnly": false
   },
@@ -517,16 +977,33 @@
     "image": "/image/Performance_28.gif",
     "type": "스릴러",
     "genre": "뮤지컬",
-    "start_date": "20241203",
-    "end_date": "20250302",
-    "area": "서울특별시",
     "stadium": {
       "name": "홍익대 대학로 아트센터",
       "address": "서울특별시 종로구 대학로 57"
     },
     "runningTime": 140,
     "averageStar": 4.2,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 28,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "'이프덴'은 대학로에서 상연되는 감성 연극이다. 사랑과 인생에 대한 따뜻한 메시지를 담았다. 작은 무대에서 배우들의 디테일한 연기가 빛난다. 잔잔하지만 깊이 있는 이야기로 관객을 사로잡는다. 공연 후 오랫동안 마음에 남는 작품이다.",
     "adultOnly": false
   },
@@ -536,16 +1013,33 @@
     "image": "/image/Performance_29.gif",
     "type": "호러",
     "genre": "연극",
-    "start_date": "20250107",
-    "end_date": "20250303",
-    "area": "서울특별시",
     "stadium": {
       "name": "세종문화회관",
       "address": "서울특별시 종로구 세종대로 175 (세종로)"
     },
     "runningTime": 140,
     "averageStar": 4.6,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 29,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "아서 밀러의 명작 '세일즈맨의 죽음'을 무대에서 만날 수 있다. 평범한 가장의 몰락을 통해 자본주의 사회를 비판한다. 배우들의 몰입도 높은 연기가 작품의 무게를 더한다. 무대와 조명이 극적 긴장감을 만들어낸다. 깊은 여운을 남기는 작품이다.",
     "adultOnly": true
   },
@@ -555,16 +1049,33 @@
     "image": "/image/Performance_30.gif",
     "type": "판타지",
     "genre": "대중음악",
-    "start_date": "20250425",
-    "end_date": "20250426",
-    "area": "인천광역시",
     "stadium": {
       "name": "인스파이어리조트",
       "address": "인천광역시 중구 공항문화로 127 (운서동)"
     },
     "runningTime": 300,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 30,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "EDC KOREA는 세계적인 일렉트로닉 댄스 뮤직 축제다. 세계 최정상 DJ들의 무대가 쉼 없이 이어진다. 화려한 조명과 불꽃놀이가 밤하늘을 수놓는다. 관객들은 음악과 하나 되어 춤추며 열광한다. 뜨거운 열기가 가득한 페스티벌이다.",
     "adultOnly": true
   },
@@ -574,16 +1085,33 @@
     "image": "/image/Performance_31.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250215",
-    "end_date": "20250216",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 5,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 31,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "박지현의 첫 번째 단독 콘서트로, 그의 다채로운 보컬을 만날 수 있다. 발라드와 댄스가 조화를 이루며 공연장을 물들인다. 진솔한 멘트와 팬들과의 소통이 따뜻하다. 감각적인 무대 연출이 공연을 한층 더 돋보이게 한다. 처음 단독 무대인 만큼 남다른 감회가 느껴진다.",
     "adultOnly": true
   },
@@ -593,16 +1121,33 @@
     "image": "/image/Performance_32.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250328",
-    "end_date": "20250330",
-    "area": "서울특별시",
     "stadium": {
       "name": "경희대학교",
       "address": "서울특별시 동대문구 경희대로 26"
     },
     "runningTime": 90,
     "averageStar": 4.5,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 32,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "트레저의 팬 콘서트 'SPECIAL MOMENT'는 팬들을 위한 특별한 선물 같은 시간이다. 신곡 무대와 멤버별 개인 무대가 다채롭게 구성됐다. 팬들과 직접 소통하며 즐기는 시간이 이어진다. 멤버들의 장난기 가득한 모습이 공연장을 웃음바다로 만든다. 행복 가득한 분위기의 공연이다.",
     "adultOnly": true
   },
@@ -612,16 +1157,33 @@
     "image": "/image/Performance_33.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250328",
-    "end_date": "20250330",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 33,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "정동원의 세 번째 전국 투어 서울 공연으로, 한층 성숙해진 목소리를 들려준다. 트로트부터 발라드까지 다양한 무대가 펼쳐진다. 팬들에게 직접 전하는 따뜻한 인사가 감동적이다. 아직 어린 나이지만 무대 매너가 베테랑 같다. 가족 단위 관객들도 많이 찾는 공연이다.",
     "adultOnly": false
   },
@@ -631,16 +1193,33 @@
     "image": "/image/Performance_34.gif",
     "type": "로맨스",
     "genre": "대중음악",
-    "start_date": "20250208",
-    "end_date": "20250216",
-    "area": "서울특별시",
     "stadium": {
       "name": "블루스퀘어",
       "address": "서울특별시 용산구 이태원로 294 (한남동)"
     },
     "runningTime": 140,
     "averageStar": 3.9,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 34,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "폴킴의 소극장 콘서트로, 그의 따뜻한 목소리를 가까이에서 들을 수 있다. 조용한 공간에서 관객과 교감하며 노래를 부른다. 라이브로 듣는 폴킴의 감성은 더욱 진하게 다가온다. 담백한 무대 연출이 음악에 집중하게 만든다. 편안하고 잔잔한 힐링의 시간이 된다.",
     "adultOnly": false
   },
@@ -650,16 +1229,33 @@
     "image": "/image/Performance_35.gif",
     "type": "판타지",
     "genre": "뮤지컬",
-    "start_date": "20241229",
-    "end_date": "20250323",
-    "area": "서울특별시",
     "stadium": {
       "name": "동덕여대공연예술센터",
       "address": "서울특별시 종로구 동숭길 126 (동숭동)"
     },
     "runningTime": 140,
     "averageStar": 4.9,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 35,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "연극 '종의 기원'은 인간 본성의 어두운 면을 섬세하게 그린 작품이다. 살인 사건을 둘러싼 심리적 긴장이 극의 중심을 이룬다. 배우들의 깊이 있는 연기가 관객을 몰입하게 한다. 극적인 조명과 무대가 불안감을 더한다. 보고 나면 다양한 생각이 머릿속을 맴도는 작품이다.",
     "adultOnly": false
   },
@@ -669,16 +1265,33 @@
     "image": "/image/Performance_36.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250131",
-    "end_date": "20250131",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStarStar": 4.5,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 36,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "GOT7이 1월 31일에 선보인 'NESTFEST' 특별 공연이다. 오랜만에 팬들과 함께하는 자리여서 더욱 뜻깊다. 유쾌한 토크와 깜짝 무대가 준비됐다. 팬들의 떼창과 환호가 공연장을 가득 메운다. 함께 웃고 울며 추억을 만드는 시간이다.",
     "adultOnly": false
   },
@@ -688,16 +1301,33 @@
     "image": "/image/Performance_37.gif",
     "type": "호러",
     "genre": "뮤지컬",
-    "start_date": "20241219",
-    "end_date": "20250223",
-    "area": "서울특별시",
     "stadium": {
       "name": "두산아트센터",
       "address": "서울특별시 종로구 종로33길 15 (연지동)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 37,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "연극 '고스트 베이커리'는 독특한 소재와 유머가 돋보인다. 빵집을 무대로 귀신과 인간이 얽히며 벌어지는 이야기를 그린다. 발랄한 분위기 속에서도 따뜻한 메시지를 전한다. 무대 위 소품과 의상이 귀엽고 재치 있다. 가볍게 즐기기 좋은 작품이다.",
     "adultOnly": true
   },
@@ -707,16 +1337,33 @@
     "image": "/image/Performance_38.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250510",
-    "end_date": "20250510",
-    "area": "서울특별시",
     "stadium": {
       "name": "고려대학교 화정체육관",
       "address": "서울특별시 성북구 안암로 145 (안암동5가)"
     },
     "runningTime": 140,
     "averageStar": 4.1,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 38,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "미카 나카시마의 아시아 투어 서울 공연이다. 일본의 감성적인 발라드를 한국 무대에서 만날 수 있다. 섬세한 가창력과 표정 연기가 무대를 더욱 특별하게 한다. 관객들과 함께 호흡하며 만들어가는 라이브가 매력적이다. 애절하면서도 따뜻한 무대가 여운을 남긴다.",
     "adultOnly": true
   },
@@ -726,16 +1373,33 @@
     "image": "/image/Performance_39.gif",
     "type": "코미디",
     "genre": "뮤지컬",
-    "start_date": "20250404",
-    "end_date": "20250413",
-    "area": "서울특별시",
     "stadium": {
       "name": "예술의전당",
       "address": "서울특별시 서초구 남부순환로 2406 (서초동)"
     },
     "runningTime": 140,
     "averageStar": 4.2,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 39,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "'돈 주앙'은 프랑스 오리지널 팀이 내한해 선보이는 뮤지컬이다. 매혹적인 돈 주앙 캐릭터와 화려한 넘버가 관객을 사로잡는다. 원어로 진행되지만 무대 연출과 음악만으로도 충분히 몰입된다. 화려한 조명과 의상이 무대의 완성도를 높인다. 프랑스 뮤지컬의 진수를 맛볼 수 있는 시간이다.",
     "adultOnly": true
   },
@@ -745,16 +1409,33 @@
     "image": "/image/Performance_40.gif",
     "type": "드라마",
     "genre": "대중음악",
-    "start_date": "20250125",
-    "end_date": "20250126",
-    "area": "서울특별시",
     "stadium": {
       "name": "올림픽공원",
       "address": "서울특별시 송파구 올림픽로 424 올림픽공원 (방이동)"
     },
     "runningTime": 140,
     "averageStar": 4.6,
-
+    "seatPrices": [
+      {
+        "grade": "A",
+        "price": 120000
+      },
+      {
+        "grade": "B",
+        "price": 100000
+      },
+      {
+        "grade": "C",
+        "price": 80000
+      }
+    ],
+    "scheduleList": [
+      {
+        "id": 40,
+        "date": "2025-07-10",
+        "time": "19:00"
+      }
+    ],
     "description": "BABYMONSTER의 첫 월드투어 서울 공연으로, 신인답지 않은 무대 장악력이 돋보인다. 강렬한 댄스와 힙합 사운드가 공연장을 가득 채운다. 팬들과 함께 노래하고 춤추며 즐기는 시간이 이어진다. 패기 넘치는 무대 매너가 인상적이다. 새로운 K-POP 스타의 탄생을 지켜보는 느낌이다.",
     "adultOnly": true
   }

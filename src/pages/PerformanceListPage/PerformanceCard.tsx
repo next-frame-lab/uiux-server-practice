@@ -1,24 +1,14 @@
-export type performanceData = {
-	id: number;
-	name: string;
-	image: string;
-	type: string;
-	genre: string;
-	start_date: string;
-	end_date: string;
-	stadium: string;
-	averageStar: number;
-};
+import { PerformanceListItem } from "../__mocks__/performanceData.ts";
 
-export interface performanceCardProps {
-	performance: performanceData;
+export interface PerformanceCardProps {
+	performance: PerformanceListItem;
 	onClick: (id: number) => void;
 }
 
 export default function PerformanceCard({
 	performance,
 	onClick,
-}: performanceCardProps) {
+}: PerformanceCardProps) {
 	if (!performance) {
 		return null;
 	}
@@ -30,10 +20,10 @@ export default function PerformanceCard({
 			onClick={() => onClick(performance.id)}>
 			<img src={performance.image} alt={`${performance.name} 포스터 이미지`} />
 			<h2>{performance.name}</h2>
-			<p>{performance.stadium}</p>
+			<p>{performance.stadiumName}</p>
 			<p>{performance.averageStar}</p>
 			<p>
-				{performance.start_date} ~ {performance.end_date}
+				{performance.startDate} ~ {performance.endDate}
 			</p>
 		</button>
 	);
